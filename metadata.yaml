@@ -1,0 +1,28 @@
+_repo: Elements-of-Agricultural-Chemistry_24931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Thomas
+    birthdate: 1819
+    deathdate: 1874
+    gutenberg_agent_id: '26822'
+    url: http://www.gutenberg.org/2009/agents/26822
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Anderson_%28chemist%29
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2008-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Agricultural chemistry'
+title: Elements of Agricultural Chemistry
+url: http://www.gutenberg.org/ebooks/24931
